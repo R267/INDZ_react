@@ -1,0 +1,25 @@
+.content {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+button {
+    margin-top: 20px;
+}
+
+.user-form-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 600px;
+    /* Максимальна ширина форми */
+    padding: 20px;
+    margin-top: 20px;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
